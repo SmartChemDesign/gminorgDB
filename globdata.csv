@@ -1,0 +1,69 @@
+﻿filename;method;mp2optbasis;smiles;E_kJ/mol;name;source
+129368.xyz;cryst;augccpvtz;C1=CC(=CC=C1Cl)Cl;-3019302.853;1,4-Dichlorobenzene;"CCDC Database; GED OVERLAP 10.1007/s11224-010-9614-x"
+130547.xyz;cryst;augccpvtz;C1=CC=C(C=C1)P(C2=CC=CC=C2)C3=CC=CC=C3;-2715768.701;Triphenylphosphine;"CCDC Database; GED OVERLAP 10.1023/A:1013212709843"
+131056.xyz;cryst;augccpvtz;C[C@]12CC[C@H]3C(=CCc4cc(O)ccc34)[C@@H]1CCC2=O;-2223122.741;3-Hydroxyestra-1,3,5(10),7-tetraen-17-one;CCDC Database
+185472.xyz;cryst;augccpvtz;CC(=O)OC1=CC=CC=C1C(=O)O;-1700226.415;2-acetoxybenzoic acid;CCDC Database
+195802.xyz;cryst;augccpvtz;C1=CC=C2C(=C1)C(=CN2)CCN;-1304334.463;Tryptamine;"CCDC Database; GED OVERLAP 10.1016/j.molstruc.2017.07.016"
+223259.xyz;cryst;augccpvtz;C1=C(C=C(C=C1Cl)Cl)Cl;-4224728.046;1,3,5-Trichlorobenzene;"CCDC Database; GED OVERLAP 10.1007/s11224-010-9614-x"
+262857.xyz;cryst;augccpvtz;COC1=CC=CC=C1C(=O)N;-1350911.467;2-Methoxybenzamide;"CCDC Database; GED OVERLAP 10.1021/jp311003d"
+751100.xyz;cryst;augccpvtz;C1=CC=C(C(=C1)C(=O)N)O;-1247996.771;2-Hydroxybenzamide;"CCDC Database; GED OVERLAP 10.1021/jp311003d"
+1130688.xyz;cryst;augccpvtz;CN[S](=O)(=O)c1ccccc1c2sc(N)nn2;-3971242.377;2-(5-Amino-1,3,4-thiadiazol-2-yl)-N-methyl-benzenesulfonamide;CCDC Database
+1135600.xyz;cryst;augccpvtz;CN1C(=O)CC(=O)N(c2ccccc2)c3cc(Cl)ccc13;-3506537.851;7-Chloro-1-methyl-5-phenyl-1H-1,5-benzodiazepine-2,4(3H,5H)-dione;CCDC Database
+1136851.xyz;cryst;augccpvtz;Nc1ccc(cc1)[S](=O)(=O)NC(=O)c2ccccc2;-3239812.881;Sulfabenzamide;CCDC Database
+1137474.xyz;cryst;augccpvtz;ClC(Cl)C(c1ccc(Cl)cc1)c2ccc(Cl)cc2;-6241499.566;1,1-Dichloro-2,2-bis(p-chlorophenyl)ethane;CCDC Database
+1140079.xyz;cryst;augccpvtz;COc1ccc(Cc2cnc(N)nc2N)cc1OC;-2291698.471;2,4-Diamino-5-(3',4'-dimethoxybenzyl)pyrimidine;CCDC Database
+1145908.xyz;cryst;augccpvtz;CCN1SC(=Nc2ccccc2)N(C1=S)c3ccccc3;-4140044.07;2-Ethyl-4-phenyl-5-phenylimino-1,2,4-thiadiazolidine-3-thione;CCDC Database
+1175256.xyz;cryst;augccpvtz;CCOc1cc2OCOc2cc1C(C)c3ccc(OC)cc3;-2617479.666;5-Ethoxy-6-(1-(4-methoxyphenyl)ethyl)-1,3-benzodioxole;CCDC Database
+1201580.xyz;cryst;augccpvtz;CC1(C)CC(C)(c2ccc(O)cc2)c3ccccc3[S]1(=O)=O;-3464577.767;4-p-Hydroxyphenyl-2,2,4-trimethylthiachroman-1,1-dioxide;CCDC Database
+1286889.xyz;cryst;augccpvtz;[O-][N+](=O)c1ccc(CC(=O)c2ccccc2)cc1;-2150107.941;2-(4-Nitrophenyl)-1-phenylethanone;CCDC Database
+757095.xyz;cryst;ccpvtz;COC1=C(C=C(C=C1)C=CC2=CC(=CC(=C2)OC3C(C(C(C(O3)CO)O)O)O)O)O;-3905347.371;Rhaponticin;CCDC Database
+866760.xyz;cryst;ccpvtz;C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl;-3877931.461;Tizanidine;CCDC Database
+1110121.xyz;cryst;ccpvtz;OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Br)cc3;-9683796.106;4-(4-(4-Bromophenyl)-4-hydroxypiperidino)-4'-fluorobutyrophenone;CCDC Database
+1124382.xyz;cryst;ccpvtz;C[C@H]1C[C@H](C)C(=O)[C@@H](C1)[C@H](O)CC2CC(=O)NC(=O)C2;-2463787.949;4-(2-(3,5-Dimethyl-2-oxocyclohexyl)-2-hydroxyethyl)-2,6-piperidinedione;CCDC Database
+1128171.xyz;cryst;ccpvtz;CC(C)=CCc1ccc2[nH]cc(c2c1)C3=C(O)C(=O)C(=C(O)C3=O)c4c[nH]c5ccc(CC=C(C)C)cc45;-4313710.608;Cochliodinol;CCDC Database
+1138766.xyz;cryst;ccpvtz;COc1ccc(Cc2oc(nn2)c3ccccc3)cc1;-2298586.188;2-(4-Methoxybenzyl)-5-phenyl-1,3,4-oxadiazole;CCDC Database
+1157508.xyz;cryst;ccpvtz;Nc1ccc(cc1)[S](=O)(=O)Nc2ccnn2c3ccccc3;-3529473.645;4-Amino-N-(1-phenyl-1H-pyrazol-5-yl)benzenesulfonamide;CCDC Database
+1160770.xyz;cryst;ccpvtz;CCN1CCC[C@H]1CNC(=O)c2c(OC)ccc(Br)c2OC;-9263786.133;(-)-(S)-3-Bromo-N-((1-ethyl-2-pyrrolidinyl)methyl)-2,6-dimethoxybenzamide;CCDC Database
+1191799.xyz;cryst;ccpvtz;CC1(C)CN(CCN2CCN(C2=O)c3cccc(Cl)c3)C1;-3464233.038;1-(2-(3,3-Dimethylazetidin-1-yl)ethyl)-3-(3-chlorophenyl)-2-imidazolidinone;CCDC Database
+1194592.xyz;cryst;ccpvtz;CCN(CC)Cc1nnc(C)n1c2ccc(Cl)cc2C(=O)c3ccccc3;-4107940.153;5-Chloro-2-(3-((diethylamino)methyl)-5-methyl-4H-1,2,4-triazol-4-yl)benzophenone;CCDC Database
+1306802.xyz;cryst;ccpvtz;CN(C)c1cccc2c1cccc2[S](=O)(=O)Nc3onc(C)c3C;-3790365.034;5-(Dimethylamino)-N-(3,4-dimethyl-5-isoxazolyl)-1-naphthalenesulfonamide;CCDC Database
+CCDC136916.xyz;ged;augccpvtz;CC1=CNC(=O)NC1=O;-1190288.135;Thymine;10.1021/jp8017138
+CCDC153210.xyz;ged;augccpvtz;C1=C(C(=CC(=C1[N+](=O)[O-])O)O)[N+](=O)[O-];-2075431.762;4,6-Dinitroresorcinol;10.1021/j100038a010
+CCDC231363.xyz;ged;augccpvtz;C(C(=O)CO)O;-900595.0771;Dihydroxyacetone;10.1021/jp072122k
+CCDC614385.xyz;ged;augccpvtz;C1=CSC(=C2SC=CS2)S1;-4782075.225;Tetrathiafulvalene;10.1016/0022-2860(93)07873-U
+CCDC648803.xyz;ged;augccpvtz;C#CC1=CC=CC=C1;-807969.2248;Ethynylbenzene;10.1021/jp058174w
+CCDC652573.xyz;ged;augccpvtz;C1=NC2=NC=NC(=C2N1)N;-1224755.347;9H-purine-6-amine;10.1021/jp905755u
+CCDC740315.xyz;ged;augccpvtz;C#CC1=CC(=CC(=C1)C#C)C#C;-1207013.214;1,3,5-Triethynylbenzene;10.1021/jp058174w
+CID751.xyz;ged;augccpvtz;C(C(C=O)O)O;-900628.5835;glyceraldehyde;10.1016/j.molstruc.2009.07.030
+CID2272.xyz;ged;augccpvtz;C1=CC=C(C=C1)N=NC2=CC=CC=C2;-1500723.276;Azobenzene;10.1021/jp004418v
+CID6570.xyz;ged;augccpvtz;CC(=O)C=C;-605937.5938;Methyl vinyl ketone;10.1016/0022-2860(89)80171-1
+CID7166.xyz;ged;augccpvtz;CC(=O)CC(=O)C1=CC=CC=C1;-1408627.865;Benzoylacetone;10.1021/jp2118967
+CID9975.xyz;ged;augccpvtz;COC1=CC(=CC=C1)F;-1168930.645;3-fluoroanisole;10.1016/j.molstruc.2005.12.035
+CID15277.xyz;ged;augccpvtz;COC1=CC=C(C=C1)N=[N+](C2=CC=C(C=C2)OC)[O-];-2298289.692;4,4'-Azoxyanisole;10.1021/jp980321l
+CID18724.xyz;ged;augccpvtz;C1CCC(CC1)N2CCCCC2;-1274768.437;1-Cyclohexylpiperidine;10.1007/s11224-015-0602-z
+CID43683.xyz;ged;augccpvtz;CN(C)N(C)C;-705068.2491;Tetramethylhydrazine;10.1016/0022-2860(83)90033-9
+CID68010.xyz;ged;augccpvtz;C1=CC=C(C=C1)OC(F)(F)F;-1689606.565;(Trifluoromethoxy)benzene;10.1016/S0022-2860(01)00564-6
+CID68120.xyz;ged;augccpvtz;C1=CSC(=C1)C2=CC=CS2;-2896574.849;2,2'-Bithiophene;10.1016/0379-6779(93)91035-Z
+CID69636.xyz;ged;augccpvtz;C(=C(F)F)(C(=C(F)F)F)F;-1970264.473;Hexafluoro-1,3-butadiene;10.1021/jo00806a013
+CID69654.xyz;ged;augccpvtz;C(#CC(F)(F)F)C(F)(F)F;-1970374.58;Hexafluoro-2-butyne;10.1021/jo00806a013
+CID70967.xyz;ged;augccpvtz;CN(C)C1=CC=C(C=C1)C#N;-1201268.044;4-(Dimethylamino)benzonitrile;10.1021/acs.jpca.8b03613
+CID97375.xyz;ged;augccpvtz;C1=CC=C(C(=C1)[N+](=O)[O-])S(=O)(=O)F;-2843617.264;2-Nitrobenzenesulfonyl fluoride;10.1016/j.molstruc.2009.12.005
+CID137997.xyz;ged;augccpvtz;C=CC(=C)C(=C)C=C;-814175.3838;2,3-Divinylbutadiene;10.1021/jo962091h
+CID138773.xyz;ged;augccpvtz;C1CCCC#CCCC1;-920367.9218;Cyclononyne;10.1016/0022-2860(79)80139-8
+CID138837.xyz;ged;augccpvtz;CC1N2N1CCC2;-801753.0207;6-Methyl-1,5-diazabicyclo[3.1.0]hexane;10.1039/D0CP04005C
+CID220186.xyz;ged;augccpvtz;C1=CSC(=C1[N+](=O)[O-])Cl;-3191435.14;2-Chloro-3-nitrothiophene;10.1016/j.molstruc.2015.07.016
+CID2724518.xyz;ged;augccpvtz;COC1=CC(=CC(=C1)F)F;-1429213.602;3,5-Difluoroanisole;10.1016/j.molstruc.2005.12.035
+CID11084236.xyz;ged;augccpvtz;C1=C(C(=CC(=C1O)C=O)O)C=O;-1597168.184;2,5-Dihydroxyterephthalaldehyde;10.1021/jp9620072
+CID23514418.xyz;ged;augccpvtz;C1CCN(C1)CN=[N+]=[N-];-1088807.673;1-(Azidomethyl)pyrrolidine;10.1039/C0CP00894J
+CCDC682820.xyz;ged;ccpvtz;C1=CC=C(C=C1)NC=O;-1049582.934;N-Phenylformamide;10.1007/s11224-012-0071-6
+CID11169919.xyz;ged;ccpvtz;C1=CC(=CC=C1C2=C3C=CC(=C(C4=CC=C(N4)C(=C5C=CC(=N5)C(=C6C=CC2=N6)C7=CC=C(C=C7)F)C8=CC=C(C=C8)F)C9=CC=C(C=C9)F)N3)F;-6049532.042;5,10,15,20-Tetrakis(4-fluorophenyl)porphyrin;10.1016/j.molstruc.2020.128662
+757.xyz;microwave;augccpvtz;C(C(=O)O)O;-797741.1388;Glycolic acid;10.1021/ja00375a009
+7530.xyz;microwave;augccpvtz;CC1=CC(=CC=C1)OC;-1011641.484;m-methylanisole;10.1063/1.5016273
+7674.xyz;microwave;augccpvtz;CCOC1=CC=CC=C1;-1011642.449;Phenetole;10.1080/00268976.2016.1177217
+7945.xyz;microwave;augccpvtz;CCOC(=O)CC(C)C;-1115411.654;Ethyl Isovalerate;10.1021/jp102747f
+7997.xyz;microwave;augccpvtz;CCCOC(=O)C;-909431.8688;n-propyl acetate;10.1016/j.cplett.2016.09.062
+10882.xyz;microwave;augccpvtz;CCCCC(=O)OCC;-1115402.407;Ethyl Valerate;10.1002/cphc.201100932
+11583.xyz;microwave;augccpvtz;CCCCC(=O)C;-815127.9088;Hexan-2-one;10.1002/cphc.201900400
+12348.xyz;microwave;augccpvtz;CCCCCOC(=O)C;-1115402.609;n-pentyl acetate;10.1016/j.jms.2013.07.001
+69391.xyz;microwave;augccpvtz;CNCC=C;-556886.9303;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+145751.xyz;microwave;augccpvtz;COC(=O)C1CO1;-1000405.222;methyl oxirane-2-carboxylate;10.1021/jp402552t

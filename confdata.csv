@@ -1,0 +1,41 @@
+﻿filename;basename;method;mp2optbasis;smiles;E_kJ/mol;name;source
+CCDC682820-cis.xyz;CCDC682820;ged;ccpvtz;C1=CC=C(C=C1)NC=O;-1049577.71147;N-Phenylformamide;10.1007/s11224-012-0071-6
+CCDC682820-trans.xyz;CCDC682820;ged;ccpvtz;C1=CC=C(C=C1)NC=O;-1049582.93425;N-Phenylformamide;10.1007/s11224-012-0071-6
+CID11169919-I.xyz;CID11169919;ged;ccpvtz;C1=CC(=CC=C1C2=C3C=CC(=C(C4=CC=C(N4)C(=C5C=CC(=N5)C(=C6C=CC2=N6)C7=CC=C(C=C7)F)C8=CC=C(C=C8)F)C9=CC=C(C=C9)F)N3)F;-6049531.83226;5,10,15,20-Tetrakis(4-fluorophenyl)porphyrin;10.1016/j.molstruc.2020.128662
+CID11169919-II.xyz;CID11169919;ged;ccpvtz;C1=CC(=CC=C1C2=C3C=CC(=C(C4=CC=C(N4)C(=C5C=CC(=N5)C(=C6C=CC2=N6)C7=CC=C(C=C7)F)C8=CC=C(C=C8)F)C9=CC=C(C=C9)F)N3)F;-6049532.04223;5,10,15,20-Tetrakis(4-fluorophenyl)porphyrin;10.1016/j.molstruc.2020.128662
+CID11169919-III.xyz;CID11169919;ged;ccpvtz;C1=CC(=CC=C1C2=C3C=CC(=C(C4=CC=C(N4)C(=C5C=CC(=N5)C(=C6C=CC2=N6)C7=CC=C(C=C7)F)C8=CC=C(C=C8)F)C9=CC=C(C=C9)F)N3)F;-6049530.86465;5,10,15,20-Tetrakis(4-fluorophenyl)porphyrin;10.1016/j.molstruc.2020.128662
+CID11169919-IV.xyz;CID11169919;ged;ccpvtz;C1=CC(=CC=C1C2=C3C=CC(=C(C4=CC=C(N4)C(=C5C=CC(=N5)C(=C6C=CC2=N6)C7=CC=C(C=C7)F)C8=CC=C(C=C8)F)C9=CC=C(C=C9)F)N3)F;-6049530.80248;5,10,15,20-Tetrakis(4-fluorophenyl)porphyrin;10.1016/j.molstruc.2020.128662
+CID6570-ap.xyz;CID6570;ged;augccpvtz;CC(=O)C=C;-605937.59384;Methyl vinyl ketone;10.1016/0022-2860(89)80171-1
+CID6570-sp.xyz;CID6570;ged;augccpvtz;CC(=O)C=C;-605934.66312;Methyl vinyl ketone;10.1016/0022-2860(89)80171-1
+CID7166-I.xyz;CID7166;ged;augccpvtz;CC(=O)CC(=O)C1=CC=CC=C1;-1408627.86473;Benzoylacetone;10.1021/jp2118967
+CID7166-II.xyz;CID7166;ged;augccpvtz;CC(=O)CC(=O)C1=CC=CC=C1;-1408626.13711;Benzoylacetone;10.1021/jp2118967
+CID9975-anti.xyz;CID9975;ged;augccpvtz;COC1=CC(=CC=C1)F;-1168930.33833;3-fluoroanisole;10.1016/j.molstruc.2005.12.035
+CID9975-syn.xyz;CID9975;ged;augccpvtz;COC1=CC(=CC=C1)F;-1168930.64524;3-fluoroanisole;10.1016/j.molstruc.2005.12.035
+CID18724-I.xyz;CID18724;ged;augccpvtz;C1CCC(CC1)N2CCCCC2;-1274768.43666;1-Cyclohexylpiperidine;10.1007/s11224-015-0602-z
+CID18724-II.xyz;CID18724;ged;augccpvtz;C1CCC(CC1)N2CCCCC2;-1274764.92370;1-Cyclohexylpiperidine;10.1007/s11224-015-0602-z
+CID18724-III.xyz;CID18724;ged;augccpvtz;C1CCC(CC1)N2CCCCC2;-1274768.10674;1-Cyclohexylpiperidine;10.1007/s11224-015-0602-z
+CID68010-I.xyz;CID68010;ged;augccpvtz;C1=CC=C(C=C1)OC(F)(F)F;-1689604.23423;(Trifluoromethoxy)benzene;10.1016/S0022-2860(01)00564-6
+CID68010-II.xyz;CID68010;ged;augccpvtz;C1=CC=C(C=C1)OC(F)(F)F;-1689606.56458;(Trifluoromethoxy)benzene;10.1016/S0022-2860(01)00564-6
+CID138837-I.xyz;CID138837;ged;augccpvtz;CC1N2N1CCC2;-801753.02196;6-Methyl-1,5-diazabicyclo[3.1.0]hexane;10.1039/D0CP04005C
+CID138837-II.xyz;CID138837;ged;augccpvtz;CC1N2N1CCC2;-801739.30060;6-Methyl-1,5-diazabicyclo[3.1.0]hexane;10.1039/D0CP04005C
+7530-cis.xyz;7530;microwave;augccpvtz;CC1=CC(=CC=C1)OC;-1011641.38457;m-methylanisole;10.1063/1.5016273
+7530-trans.xyz;7530;microwave;augccpvtz;CC1=CC(=CC=C1)OC;-1011641.48449;m-methylanisole;10.1063/1.5016273
+7674-gauche.xyz;7674;microwave;augccpvtz;CCOC1=CC=CC=C1;-1011638.34837;Phenetole;10.1080/00268976.2016.1177217
+7674-trans.xyz;7674;microwave;augccpvtz;CCOC1=CC=CC=C1;-1011642.44906;Phenetole;10.1080/00268976.2016.1177217
+7997-aa.xyz;7997;microwave;augccpvtz;CCCOC(=O)C;-909430.87354;n-propyl acetate;10.1016/j.cplett.2016.09.062
+7997-aM.xyz;7997;microwave;augccpvtz;CCCOC(=O)C;-909431.86876;n-propyl acetate;10.1016/j.cplett.2016.09.062
+7997-Ma.xyz;7997;microwave;augccpvtz;CCCOC(=O)C;-909431.60306;n-propyl acetate;10.1016/j.cplett.2016.09.062
+7997-MM.xyz;7997;microwave;augccpvtz;CCCOC(=O)C;-909431.51981;n-propyl acetate;10.1016/j.cplett.2016.09.062
+7997-PM.xyz;7997;microwave;augccpvtz;CCCOC(=O)C;-909430.59416;n-propyl acetate;10.1016/j.cplett.2016.09.062
+11583-I.xyz;11583;microwave;augccpvtz;CCCCC(=O)C;-815126.12474;Hexan-2-one;10.1002/cphc.201900400
+11583-II.xyz;11583;microwave;augccpvtz;CCCCC(=O)C;-815127.90880;Hexan-2-one;10.1002/cphc.201900400
+11583-III.xyz;11583;microwave;augccpvtz;CCCCC(=O)C;-815124.15603;Hexan-2-one;10.1002/cphc.201900400
+69391-1.xyz;69391;microwave;augccpvtz;CNCC=C;-556886.93027;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-2.xyz;69391;microwave;augccpvtz;CNCC=C;-556886.65025;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-3.xyz;69391;microwave;augccpvtz;CNCC=C;-556885.24772;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-4.xyz;69391;microwave;augccpvtz;CNCC=C;-556884.29225;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-5.xyz;69391;microwave;augccpvtz;CNCC=C;-556884.00780;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-6.xyz;69391;microwave;augccpvtz;CNCC=C;-556881.65106;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-7.xyz;69391;microwave;augccpvtz;CNCC=C;-556881.62918;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-8.xyz;69391;microwave;augccpvtz;CNCC=C;-556880.63611;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
+69391-9.xyz;69391;microwave;augccpvtz;CNCC=C;-556877.64592;N-methylprop-2-en-1-amine;10.1002/cphc.202000757
