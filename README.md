@@ -1,6 +1,6 @@
 # gminorgDB
 Database of small organic molecules in the global minimum conformation
-gminorg is a database of small organic molecules with a wide range of sizes (5-52 non-hydrogen atoms) and degrees of freedom (1-24 rotatable bonds).
+gminorg is a database of small organic molecules with a wide range of sizes (5-52 non-hydrogen atoms) and degrees of freedom (up to 13 rotatable bonds).
 This database was created to provide the ground for benchmarking systems for global optimization or conformation analysis techniques in computational chemistry.
 Molecular gometries were extracted from literature data and then optimized using quantum chemistry methods (level of theory: RI-MP2; see .csv files for info on used basis set)
 
