@@ -147,11 +147,11 @@ class BenchDrawer:
         if normalized:
             prefix = "norm_"
             ax1.set(ylabel="RMSD per DoF, $\AA$")
-            ax2.set(ylabel="dE per DoF, kcal/mol")
+            ax2.set(ylabel="dE per DoF, kJ/mol")
         else:
             prefix = ""
             ax1.set(ylabel="RMSD, $\AA$")
-            ax2.set(ylabel="dE, kcal/mol")
+            ax2.set(ylabel="dE, kJ/mol")
 
         plt.xlabel("# iteration")
 
@@ -223,11 +223,11 @@ class BenchDrawer:
         if normalized:
             prefix = "NORM_"
             axs[0].set(ylabel="best RMSD per DoF, $\AA$")
-            axs[1].set(ylabel="best dE per DoF, kcal/mol")
+            axs[1].set(ylabel="best dE per DoF, kJ/mol")
         else:
             prefix = ""
             axs[0].set(ylabel="best RMSD, $\AA$")
-            axs[1].set(ylabel="best dE, kcal/mol")
+            axs[1].set(ylabel="best dE, kJ/mol")
         axs[2].set(ylabel="best time, s")
         axs[3].set(ylabel="best XTB call count")
 
