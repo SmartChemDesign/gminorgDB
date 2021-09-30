@@ -14,3 +14,7 @@ The ./conf folder contains 40 .xyz structures in the global and one or several l
     19 molecules obtained using the GED method
     21 structures obtained with use of microwave spectroscopy methods
 For more information see  ./globdata.csv
+
+TPE_global_optimization folder contains the final implementation of the global optimization routine using the Tree Parzen Estimator
+
+A benchmarking program package is also presented, as well as a use case.
