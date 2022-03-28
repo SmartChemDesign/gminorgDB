@@ -104,7 +104,7 @@ parso=0.8.2=pyhd3eb1b0_0
 pcre=8.45=h295c915_0
 pexpect=4.8.0=pyhd3eb1b0_3
 pickleshare=0.7.5=pyhd3eb1b0_1003
-pillow=8.3.1=py37h2c7a002_0
+Pillow>=9.0.1
 pip=21.2.2=py37h06a4308_0
 pixman=0.40.0=h7f8727e_0
 prometheus_client=0.11.0=pyhd3eb1b0_0
