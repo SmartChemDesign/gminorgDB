@@ -17,4 +17,4 @@ For more information see  ./globdata.csv
 
 TPE_global_optimization folder contains the final implementation of the global optimization routine using the Tree Parzen Estimator
 
-A benchmarking program package is also presented, as well as a use case.
+A benchmarking package with an example of usage is also available in the ./benchmark_system
